@@ -10,7 +10,9 @@ path：存放版本号的临时文件
 
 
 demo：
+
 @VersionAnnotation(value="1.1.1", path="D:\\")
+
 public class Application {
 
 	/**
