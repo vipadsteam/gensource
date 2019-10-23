@@ -1,0 +1,3 @@
+org\adam\gensource\handler\VersionHandler.class
+org\adam\gensource\VersionAnnotation.class
+org\adam\gensource\VersionProcessor.class
