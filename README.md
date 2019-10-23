@@ -1,6 +1,6 @@
 # gensource
 版本号生成器
-简单易用
+简单易用，结合version项目一起用
 
 使用APT(Annotation Processing Tool) 在编译时候使用javassist修改版本号方法返回，实现了每次在打包机器上自动升级版本号的功能
 
